@@ -1,0 +1,16 @@
+
+1000,4,Apple
+
+10000,5,Grape
+
+Trip to Donegal,4,Pear
+
+Trip to Dublin,4,Banana
+
+2000,4,Apple
+
+15000,4,Orange
+
+Trip to Cork,4,Carrot
+
+Trip to Caribbean,5,Banana
